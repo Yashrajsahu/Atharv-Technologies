@@ -6,8 +6,14 @@ Public class Welcome{
       int x=10, y=20;
       int z=x+y;
       Sysytem.out.println(z);
+
+    
+      int p=x*y;
+      Sysytem.out.println(p);
+    
       
       Sysytem.out.println("My Final version done.");
    
+
   }
 }
